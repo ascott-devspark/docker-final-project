@@ -1,0 +1,11 @@
+{
+    "name": "world-api",
+    "version": "0.1.0",
+    "description": "World API v.0.1",
+    "title": "World API",
+    "url" : "http://api.world.com.ar",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
